@@ -528,3 +528,6 @@ history -a
 type read
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+type if
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
